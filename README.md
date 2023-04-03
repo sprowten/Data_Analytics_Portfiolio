@@ -1,12 +1,10 @@
 # Skyler Prowten - Data Analytics Portfolio
 ## About
-Hi, I'm Skyler! I have a technical background and hold a Master of Arts (M.A.) degree in Experimental Psychology from Appalachian State University. Throughout my master's program, I was involved in numerous research projects where my responsibilities included data analysis and modeling as well as interpretation. Before enrollment in the program, I graduated from North Carolina State University with a B.A. in Psychology and a B.S. in Animal Science. 
+Hi, I'm Skyler! I have a technical background and hold a master's degree (M.A.) in Experimental Psychology from Appalachian State University. Throughout my master's program, I was involved in numerous research projects where my responsibilities included data analysis and modeling as well as interpretation. Before enrollment in the program, I graduated from North Carolina State University with a B.A. in Psychology and a B.S. in Animal Science. 
 
 My resume in [pdf]([url](/sprowten/Data_Analytics_Portfiolio/blob/fd7386deacd2c65d7a2d5758ffa1daa02c644c9c/Skyler%20Prowten%20Data%20Analyst%20Resume.pdf)).
 
 This repository serves as a showcase of my skills, a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics. 
-
-## Table of Contents
 
 ## Portfolio Projects
 
@@ -24,12 +22,23 @@ R Programming Language, Jamovi
 #### Code:
 #### Presentation: [Thesis Defense Presentation.pdf]( /sprowten/Data_Analytics_Portfiolio/blob/fd7386deacd2c65d7a2d5758ffa1daa02c644c9c/Thesis%20Defense%20Presentation.pdf)
 #### Description: 
-This is the culmination of my two year master's thesis project. The project required the design of an experimental manipulation, data collection, cleaning, analysis, and interpretation. 
+This is the culmination of my two year master's thesis project. The project required the design of an experimental manipulation, data collection, cleaning, analysis, and interpretation. This project investigated how body positive images (vs. muscular ideal vs. appearance neutral) impacted men's body dissatisfaction, preoccuption with their body, and mood. 
 #### Skills: 
 data cleaning, detecting data anomalies, handling missing data, data visualization, descriptive statistics, dealing with outliers, Shapiro–Wilk test, Levene's test, logarithmic data transformations.
 #### Technology: 
 R Programming Language, Excel, Jamovi
-#### Results:
+#### Results: 
+Body positive and appearance neutral posts had similar effects on male viewers. However, viewing images that promoted the muscular lead to significantly increased body dissatisfaction.
+
+### Meal Plan Budget Tracking Aid for Student with Intellectual and Developmental Disabilities
+#### Weekly Tracking Workbook: [SDAP Meal Plan Budget Tracking]([url](sprowten/Data_Analytics_Portfiolio/blob/3325058fb67b9cefcbf59282a5c7af3548e7e6e9/SDAP%20Meal%20Plan%20Budget%20Tracking.xlsx)) 
+#### Visualizations: [Weekly Budget Breakdown Standard Option]([url](/sprowten/Data_Analytics_Portfiolio/blob/3325058fb67b9cefcbf59282a5c7af3548e7e6e9/Weekly%20Budget%20Breakdown%20Standard%20Option.xlsx))
+#### Descripton: 
+While working with the Scholars with Diverse Abilities Program at Appalachian State University, I noticed that many of our students had trouble budgeting the money in there meal plans during their first semester at school. This lead me to create a visualization entitled the Weekly Budget Breakdown Standard Option to easily visualize how ideal spending patterns would look. Then, an SDAP Meal Plan Budget Tracking sheet was created for each students. Students simply entered their weekly meal plan spending into cell C3 of each week, and the formulas calculated the rest. To ensure that the no formula was accidently altered, all other cells in the sheet were locked.
+#### Skills: 
+budget tracking, pivot tables, pivot charts, data visualization, locking/unlocking cells.
+#### Technology: 
+Excel
 
 ### Choose Maryland Education
 #### Tableau Public: [dashboard]([url](app/profile/skyler.prowten/viz/Data_gov-ChooseMarylandEducation/Dashboard12))
